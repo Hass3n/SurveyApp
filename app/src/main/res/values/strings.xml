@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SeniorSurvey</string>
+    <string name="title_activity_login">Login</string>
+    <string name="senior_steps">Senior Steps</string>
+    <string name="survey">Survey</string>
+    <string name="username_or_email">userName or Email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="required">required</string>
+    <string name="min_six_chars">min 6 chars</string>
+    <string name="wrong_username_or_password">wrong course nama or password</string>
+    <string name="error">error</string>
+    <string name="title_activity_courses_list">CoursesList</string>
+    <string name="title_activity_add_visitor">AddVisitor</string>
+    <string name="name">name</string>
+    <string name="phone">phone</string>
+    <string name="next">next</string>
+    <array name="gender">
+        <item>male</item>
+        <item>female</item>
+    </array>
+    <string name="title_activity_survey_questions">SurveyQuestions</string>
+    <string name="submit">Submit</string>
+    <string name="type_here_your_feedback">type here your feedback</string>
+    <string name="please_answer_all_questions">please answer all questions first</string>
+    <string name="success">Success</string>
+    <string name="survey_submited_successfuly">thanks for your time , your survey submited successfuly</string>
+</resources>
